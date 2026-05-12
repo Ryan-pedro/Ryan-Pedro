@@ -20,7 +20,7 @@
 ```csharp
 public class Developer
 {
-    public string Nome       => "Seu Nome Aqui";
+    public string Nome       => "Ryan Pedro";
     public string Role       => "Full Stack Developer";
     public string[] Focus    => ["Clean Architecture", "CQRS", "SOLID", "REST APIs"];
     public string[] Cloud    => ["AWS", "Azure DevOps", "Docker"];
@@ -63,7 +63,7 @@ public class Developer
 
 ---
 
-## 🏗️ Arquitetura & Boas Práticas
+## Arquitetura & Boas Práticas
 
 <div align="center">
 
@@ -79,7 +79,7 @@ public class Developer
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9"/>
@@ -92,7 +92,7 @@ public class Developer
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -102,7 +102,7 @@ public class Developer
 
 ---
 
-## 📈 Atividade Recente
+## Atividade Recente
 
 <!--START_SECTION:activity-->
 > *A seção de atividade recente será preenchida automaticamente com a GitHub Action.*
