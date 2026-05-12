@@ -5,17 +5,13 @@
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Clean+Architecture+%7C+CQRS+%7C+SOLID;API+REST+%7C+.NET+%7C+Angular;AWS+%7C+Docker+%7C+Azure+DevOps;Apaixonado+por+qualidade+de+c%C3%B3digo+%E2%9C%A8)](https://git.io/typing-svg)
-
 <br/>
-
-<!-- Profile views + social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## Sobre Mim
 
 ```csharp
 public class Developer
@@ -35,7 +31,7 @@ public class Developer
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## Stack & Tecnologias
 
 <div align="center">
 
@@ -69,11 +65,11 @@ public class Developer
 
 | Padrão | Descrição |
 |--------|-----------|
-| 🏛️ **Clean Architecture** | Separação de responsabilidades em camadas bem definidas |
-| ⚡ **CQRS** | Separação de comandos e consultas para maior escalabilidade |
-| 🔷 **SOLID** | Princípios de design orientado a objetos |
-| 🔗 **REST APIs** | APIs bem estruturadas, versionadas e documentadas |
-| ☁️ **Cloud-Native** | Sustentação e desenvolvimento em ambientes AWS |
+| **Clean Architecture** | Separação de responsabilidades em camadas bem definidas |
+| **CQRS** | Separação de comandos e consultas para maior escalabilidade |
+| **SOLID** | Princípios de design orientado a objetos |
+| **REST APIs** | APIs bem estruturadas, versionadas e documentadas |
+| **Cloud-Native** | Sustentação e desenvolvimento em ambientes AWS |
 
 </div>
 
@@ -114,9 +110,9 @@ public class Developer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-pedro-)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryan-pedro)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanpedro1938@gmail.com)
 
 </div>
 
