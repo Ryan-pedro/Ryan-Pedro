@@ -88,22 +88,6 @@ public class Developer
 
 ---
 
-## Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ryan-pedro/Ryan-pedro/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## Atividade Recente
-
-<!--START_SECTION:activity-->
-> *A seção de atividade recente será preenchida automaticamente com a GitHub Action.*
-<!--END_SECTION:activity-->
-
----
-
 ## 🤝 Conecte-se
 
 <div align="center">
