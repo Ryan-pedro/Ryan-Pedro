@@ -27,7 +27,7 @@ public class Developer
 }
 ```
 
-> 🎯 Especializado em construir sistemas robustos e escaláveis com **C#/.NET** no back-end e **Angular/TypeScript** no front-end. Atuo com **Clean Architecture**, **CQRS** e princípios **SOLID**, garantindo código de alta qualidade e fácil manutenção.
+>  Especializado em construir sistemas robustos e escaláveis com **C#/.NET** no back-end e **Angular/TypeScript** no front-end. Atuo com **Clean Architecture**, **CQRS** e princípios **SOLID**, garantindo código de alta qualidade e fácil manutenção.
 
 ---
 
@@ -91,10 +91,8 @@ public class Developer
 ## Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ryan-pedro/Ryan-pedro/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-> ⚠️ Para ativar a animação da cobrinha, veja as instruções abaixo.
 
 ---
 
